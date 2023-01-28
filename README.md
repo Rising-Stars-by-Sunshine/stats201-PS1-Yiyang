@@ -1,4 +1,4 @@
-# Title [Yiyang Zhang](https://www.nature.com/articles/s41562-021-01152-2)
+# Yiyang Zhang
 ## Project information
 - **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
