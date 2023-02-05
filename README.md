@@ -7,6 +7,7 @@ This is Yiyang Zhang, a sophomore student majoring in Computation and Design wit
 ## Sample Course Projects
 
 [Problem Set1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/code/Yiyang_Zhang_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
+
 [NLP Diabetes](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/code/NLP_Diabetes.ipynb)
 
 ## data
