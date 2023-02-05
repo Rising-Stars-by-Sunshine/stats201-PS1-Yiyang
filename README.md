@@ -17,7 +17,7 @@ This is Yiyang Zhang, a sophomore student majoring in Computation and Design wit
 
 ## spotlight
 
-1.1. Worldcloud
+### 1.1. Worldcloud
 
 1.1.1. Title
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/title.png)
@@ -25,7 +25,7 @@ This is Yiyang Zhang, a sophomore student majoring in Computation and Design wit
 1.1.2. Abstract
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/abstract.png)
 
-1.2. Bigram
+### 1.2. Bigram
 
 1.2.1. Title
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/title%20bigram.png)
@@ -33,7 +33,8 @@ This is Yiyang Zhang, a sophomore student majoring in Computation and Design wit
 1.2.2. Abstract
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/abstract%20bigram.png)
 
-##References 
+## References 
+
 Chan JCN, Zhang Y, Ning G. 2014. Diabetes in China: a societal solution for a personal challenge. The Lancet Diabetes & Endocrinology. 2(12):969–979. doi:10.1016/s2213-8587(14)70144-5.
 
 Gao C, Sun X, Lu L, Liu F, Yuan J. 2018. Prevalence of gestational diabetes mellitus in mainland China: A systematic review and meta-analysis. Journal of Diabetes Investigation. 10(1):154–162. doi:10.1111/jdi.12854.
