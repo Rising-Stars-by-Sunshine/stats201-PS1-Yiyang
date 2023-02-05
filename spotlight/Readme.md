@@ -1,3 +1,4 @@
+title
 | bigram                        |   counts |
 |:------------------------------|---------:|
 | ('diabetes', 'china')         |        5 |
@@ -25,3 +26,32 @@
 | ('prevent', 'diabetes')       |        1 |
 | ('intervention', 'prevent')   |        1 |
 | ('lifestyle', 'intervention') |        1 |
+
+abstract
+| bigram                        |   counts |
+|:------------------------------|---------:|
+| ('prevalence', 'diabetes')    |       12 |
+| ('glucose', 'tolerance')      |       11 |
+| ('risk', 'factor')            |       10 |
+| ('mainland', 'china')         |       10 |
+| ('impaired', 'glucose')       |       10 |
+| ('diabetic', 'retinopathy')   |        8 |
+| ('type', 'diabetes')          |        7 |
+| ('diabetes', 'china')         |        7 |
+| ('lifestyle', 'intervention') |        7 |
+| ('chinese', 'population')     |        6 |
+| ('confidence', 'interval')    |        5 |
+| ('physical', 'activity')      |        5 |
+| ('iadpsg', 'criterion')       |        5 |
+| ('diabetes', 'mellitus')      |        5 |
+| ('diabetes', 'wa')            |        4 |
+| ('gdm', 'mainland')           |        4 |
+| ('prevalence', 'gdm')         |        4 |
+| ('incidence', 'rate')         |        4 |
+| ('intervention', 'group')     |        4 |
+| ('control', 'group')          |        4 |
+| ('active', 'intervention')    |        4 |
+| ('among', 'woman')            |        4 |
+| ('diabetes', 'prediabetes')   |        4 |
+| ('kong', 'taiwan')            |        4 |
+| ('hong', 'kong')              |        4 |
