@@ -17,19 +17,19 @@ This is Yiyang Zhang, a sophomore student majoring in Computation and Design wit
 
 ## spotlight
 
-#1.1. Worldcloud
+1.1. Worldcloud
 
-#1.1.1. Title
+1.1.1. Title
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/title.png)
 
-#1.1.2. Abstract
+1.1.2. Abstract
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/abstract.png)
 
-#1.2. Bigram
+1.2. Bigram
 
-#1.2.1. Title
+1.2.1. Title
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/title%20bigram.png)
 
-#1.2.2. Abstract
+1.2.2. Abstract
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/abstract%20bigram.png)
 
