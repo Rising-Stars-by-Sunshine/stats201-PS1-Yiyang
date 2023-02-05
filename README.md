@@ -7,13 +7,13 @@ This is Yiyang Zhang, a sophomore student majoring in Computation and Design wit
 ## Sample Course Projects
 
 [Problem Set1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/code/Yiyang_Zhang_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)
-[NLP Diabetes]（https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/code/NLP_Diabetes.ipynb）
+[NLP Diabetes](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/code/NLP_Diabetes.ipynb)
 
 ## data
-[Data Diabetes]https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/data/diabetes1.csv）
+[Data Diabetes](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/data/diabetes1.csv)
 
 ## code
-[NLP Diabetes]（https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/code/NLP_Diabetes.ipynb）
+[NLP Diabetes](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/code/NLP_Diabetes.ipynb)
 
 ## spotlight
 
@@ -23,13 +23,13 @@ This is Yiyang Zhang, a sophomore student majoring in Computation and Design wit
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/title.png)
 
 #1.1.2. Abstract
-![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/abstract.png）
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/abstract.png)
 
 #1.2. Bigram
 
 #1.2.1. Title
-![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/title%20bigram.png）
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/title%20bigram.png)
 
 #1.2.2. Abstract
-![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/abstract%20bigram.png）
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Yiyang/blob/main/spotlight/abstract%20bigram.png)
 
